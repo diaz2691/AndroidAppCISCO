@@ -10,4 +10,4 @@
     <TextView android:text="Hello Jenkins" android:paddingTop="50dp" android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 
-</RelativeLayout
+</RelativeLayout>
